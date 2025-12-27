@@ -1,0 +1,8 @@
+{
+  "name": "智眸 (Zhimou) - AI 旅拍智能体",
+  "description": "专业的AI旅行摄影助手，集智能构图、相机模拟、AI精修、社交排版、记忆胶囊与个性化推荐于一体，由IP形象'智小眸'全程陪伴引导。",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
